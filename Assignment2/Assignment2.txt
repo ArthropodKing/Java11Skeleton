@@ -1,39 +1,48 @@
-Name:
+Name: CALLUM
 
 
-1.
+1. source=created by humans  byte=source code compiled into
 
-2.
+2. describes an object
 
-3.
+3. where java starts running program
 
-4.
+4. character sequence
 
-5.
+5. yEs
 
-6.
+6. when code compiles but not in the way you wanted.
 
-7.
+7. says the thing you put
 
-8.
+8. #use this
 
-9.
+9. /*use this*/
 
-10.
+10. 
+Hello Mercury!
+Hello Venus!
+Hello Earth!
+Hello Mars!
+Hello Jupiter!
+Hello Saturn!
+Hello Uranus!
+Hello Neptune!
+Hello Pluto!
 
-11.
+11. byte short int long float double char boolean
 
-12.
+12. long
 
-13.
+13. double
 
-14.
-a.
-b.
+14. 
+a.  Integer
+b.  Double
 
-15.
+15. 19345
 
-16.
+16. a character
 
-17.
+17. true or false
 
