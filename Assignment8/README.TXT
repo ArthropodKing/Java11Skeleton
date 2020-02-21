@@ -1,0 +1,3 @@
+1. THEY ARE NOT EXACT
+2. 1 and 0
+3. 

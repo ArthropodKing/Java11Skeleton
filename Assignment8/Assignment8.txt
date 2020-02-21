@@ -1,18 +1,18 @@
 Assignment 7
 Name:
 
-1.
+1. because the results can be unexpected
 
-2.
+2. true and false
 
-3.
+3. six
 
-4.
+4. that the variable can't be changed after compilation
 
-5.
+5. B
 
-6.
+6. &&
 
-7.
+7. ||
 
-8.
+8. !

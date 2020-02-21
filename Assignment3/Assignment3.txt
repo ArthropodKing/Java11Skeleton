@@ -3,40 +3,39 @@ Name:
 
 Chapter 8:
 
-1.
+1. boolean, byte, char, short, int, long, float, double
 
-2.
+2. UPPERCASE and lowercase letters count as different letters
 
-3.
+3. non-primitive or object data
 
-4.
+4. long
 
-5.
+5. double
 
-6.
+6. use a long instead
 
-7.
+7. use 345 instead and divide it by 10 later in the code
 
-8.
+8. 3.048625
 
-9.
+9. because doubles are bigger
 
-10.
+10. /n = new line, /t = indent
 
-11.
+11. strings use "quotation marks", chars use 'apostrophes'
 
-12.
+12. true and false
 
 Chapter 9:
 
 1.
-    1.1
+    1.1 double x
     
-    1.2
+    1.2 String frstNameAndLastName = "myName"
+2. string, class, new, import
 
-2.
-
-3.
+3. money = 123.5
 
 Chapter 10:
 
@@ -64,8 +63,8 @@ Chapter 11:
 
 2.  methods
 
-3.  
+3.  String substring(int beginIndex, int endIndex), String substring(int beginIndex)
 
 4.  no
 
-5.  
+5.  od walk spoiled
